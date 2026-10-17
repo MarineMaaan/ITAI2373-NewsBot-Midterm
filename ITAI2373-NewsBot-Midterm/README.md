@@ -1,6 +1,6 @@
 # NewsBot Intelligence System
 
-**Benjamin LaCount II · ITAI 2373 · solo midterm · October 17, 2026**
+**ITAI 2373 · Midterm · October 17, 2026**
 
 [Public GitHub repository](https://github.com/MarineMaaan/ITAI2373-NewsBot-Midterm) ·
 [Run in Google Colab](https://colab.research.google.com/github/MarineMaaan/ITAI2373-NewsBot-Midterm/blob/main/ITAI2373-NewsBot-Midterm/NewsBot_Intelligence_System.ipynb) ·
@@ -170,13 +170,11 @@ Runtime recorded for the local analysis: **211.7 seconds**.
 
 ## Specific contribution and AI disclosure
 
-Benjamin LaCount II is the sole student contributor. He supplied the business
+Benjamin LaCount II is the sole student contributorm with thought, planning,
+understanding, final quality assurance and submission decisions performed. Additionally, he supplied the business
 interest in studio game reviews and the reflection themes: preprocessing quality,
 preparation efficiency, and the role of AI assistance. AI assisted execution,
-implementation, debugging, evaluation and document drafting. Thought, planning,
-understanding, final quality assurance and submission decisions remain the student's
-responsibilities. The course starter informed the eight-module sequence. There
-are no invented teammates, meetings, team names or team numbers.
+implementation, debugging, evaluation and document drafting. 
 
 ## References
 
