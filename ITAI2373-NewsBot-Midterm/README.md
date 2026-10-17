@@ -170,11 +170,7 @@ Runtime recorded for the local analysis: **211.7 seconds**.
 
 ## Specific contribution and AI disclosure
 
-Benjamin LaCount II is the sole student contributorm with thought, planning,
-understanding, final quality assurance and submission decisions performed. Additionally, he supplied the business
-interest in studio game reviews and the reflection themes: preprocessing quality,
-preparation efficiency, and the role of AI assistance. AI assisted execution,
-implementation, debugging, evaluation and document drafting. 
+AI assisted execution, implementation, debugging, evaluation and document drafting. 
 
 ## References
 
