@@ -162,7 +162,10 @@ and should never be replaced with untrusted joblib files.
 
 `requirements.txt` bounds supported direct dependencies; `environment-tested.txt`
 records the actual local package set. Colab is supported by the notebook's setup
-and upload cells. A signed-in Colab session has not been observed during validation.
+and upload cells. The public notebook was opened in signed-in Colab and CPU/standard
+RAM were verified. Runtime allocation stayed pending, including after a reload,
+so live Colab execution could not be verified. The upload branch was checked with
+a controlled stub, and the complete actual notebook passed locally.
 Runtime recorded for the local analysis: **211.7 seconds**.
 
 ## Specific contribution and AI disclosure
