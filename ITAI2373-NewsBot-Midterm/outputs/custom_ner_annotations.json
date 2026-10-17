@@ -1,0 +1,1922 @@
+[
+  {
+    "split": "train",
+    "text": "Pixel Ledger reviewed Aurora Engine for game developers.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        22,
+        35,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Pixel Ledger published a report about Aurora Engine.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        38,
+        51,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Pixel Ledger that Aurora Engine supports their studio.",
+    "entities": [
+      [
+        16,
+        28,
+        "NEWS_OUTLET"
+      ],
+      [
+        34,
+        47,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Aurora Engine received an update according to Pixel Ledger.",
+    "entities": [
+      [
+        0,
+        13,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Pixel Ledger tested Aurora Engine yesterday.",
+    "entities": [
+      [
+        13,
+        25,
+        "NEWS_OUTLET"
+      ],
+      [
+        33,
+        46,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Aurora Engine was covered by Pixel Ledger.",
+    "entities": [
+      [
+        14,
+        27,
+        "TECH_PRODUCT"
+      ],
+      [
+        43,
+        55,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Pixel Ledger compared the performance of Aurora Engine.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        41,
+        54,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Pixel Ledger discussed Aurora Engine at the conference.",
+    "entities": [
+      [
+        18,
+        30,
+        "NEWS_OUTLET"
+      ],
+      [
+        41,
+        54,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Aurora Engine appeared in a feature from Pixel Ledger.",
+    "entities": [
+      [
+        0,
+        13,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Pixel Ledger interviewed the engineers behind Aurora Engine.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        46,
+        59,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Aurora Engine to Pixel Ledger.",
+    "entities": [
+      [
+        24,
+        37,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Pixel Ledger reported that Aurora Engine will ship next month.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        27,
+        40,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Studio Signal reviewed Prism Console for game developers.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        23,
+        36,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Studio Signal published a report about Prism Console.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        39,
+        52,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Studio Signal that Prism Console supports their studio.",
+    "entities": [
+      [
+        16,
+        29,
+        "NEWS_OUTLET"
+      ],
+      [
+        35,
+        48,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Prism Console received an update according to Studio Signal.",
+    "entities": [
+      [
+        0,
+        13,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        59,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Studio Signal tested Prism Console yesterday.",
+    "entities": [
+      [
+        13,
+        26,
+        "NEWS_OUTLET"
+      ],
+      [
+        34,
+        47,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Prism Console was covered by Studio Signal.",
+    "entities": [
+      [
+        14,
+        27,
+        "TECH_PRODUCT"
+      ],
+      [
+        43,
+        56,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Studio Signal compared the performance of Prism Console.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        42,
+        55,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Studio Signal discussed Prism Console at the conference.",
+    "entities": [
+      [
+        18,
+        31,
+        "NEWS_OUTLET"
+      ],
+      [
+        42,
+        55,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Prism Console appeared in a feature from Studio Signal.",
+    "entities": [
+      [
+        0,
+        13,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        54,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Studio Signal interviewed the engineers behind Prism Console.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        47,
+        60,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Prism Console to Studio Signal.",
+    "entities": [
+      [
+        24,
+        37,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        54,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Studio Signal reported that Prism Console will ship next month.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        28,
+        41,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Game Wire reviewed Vertex Toolkit for game developers.",
+    "entities": [
+      [
+        0,
+        9,
+        "NEWS_OUTLET"
+      ],
+      [
+        19,
+        33,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Game Wire published a report about Vertex Toolkit.",
+    "entities": [
+      [
+        0,
+        9,
+        "NEWS_OUTLET"
+      ],
+      [
+        35,
+        49,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Game Wire that Vertex Toolkit supports their studio.",
+    "entities": [
+      [
+        16,
+        25,
+        "NEWS_OUTLET"
+      ],
+      [
+        31,
+        45,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Vertex Toolkit received an update according to Game Wire.",
+    "entities": [
+      [
+        0,
+        14,
+        "TECH_PRODUCT"
+      ],
+      [
+        47,
+        56,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Game Wire tested Vertex Toolkit yesterday.",
+    "entities": [
+      [
+        13,
+        22,
+        "NEWS_OUTLET"
+      ],
+      [
+        30,
+        44,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Vertex Toolkit was covered by Game Wire.",
+    "entities": [
+      [
+        14,
+        28,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Game Wire compared the performance of Vertex Toolkit.",
+    "entities": [
+      [
+        0,
+        9,
+        "NEWS_OUTLET"
+      ],
+      [
+        38,
+        52,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Game Wire discussed Vertex Toolkit at the conference.",
+    "entities": [
+      [
+        18,
+        27,
+        "NEWS_OUTLET"
+      ],
+      [
+        38,
+        52,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Vertex Toolkit appeared in a feature from Game Wire.",
+    "entities": [
+      [
+        0,
+        14,
+        "TECH_PRODUCT"
+      ],
+      [
+        42,
+        51,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Game Wire interviewed the engineers behind Vertex Toolkit.",
+    "entities": [
+      [
+        0,
+        9,
+        "NEWS_OUTLET"
+      ],
+      [
+        43,
+        57,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Vertex Toolkit to Game Wire.",
+    "entities": [
+      [
+        24,
+        38,
+        "TECH_PRODUCT"
+      ],
+      [
+        42,
+        51,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Game Wire reported that Vertex Toolkit will ship next month.",
+    "entities": [
+      [
+        0,
+        9,
+        "NEWS_OUTLET"
+      ],
+      [
+        24,
+        38,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Render Review reviewed Nova Headset for game developers.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        23,
+        35,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Render Review published a report about Nova Headset.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        39,
+        51,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Render Review that Nova Headset supports their studio.",
+    "entities": [
+      [
+        16,
+        29,
+        "NEWS_OUTLET"
+      ],
+      [
+        35,
+        47,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Nova Headset received an update according to Render Review.",
+    "entities": [
+      [
+        0,
+        12,
+        "TECH_PRODUCT"
+      ],
+      [
+        45,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Render Review tested Nova Headset yesterday.",
+    "entities": [
+      [
+        13,
+        26,
+        "NEWS_OUTLET"
+      ],
+      [
+        34,
+        46,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Nova Headset was covered by Render Review.",
+    "entities": [
+      [
+        14,
+        26,
+        "TECH_PRODUCT"
+      ],
+      [
+        42,
+        55,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Render Review compared the performance of Nova Headset.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        42,
+        54,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Render Review discussed Nova Headset at the conference.",
+    "entities": [
+      [
+        18,
+        31,
+        "NEWS_OUTLET"
+      ],
+      [
+        42,
+        54,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Nova Headset appeared in a feature from Render Review.",
+    "entities": [
+      [
+        0,
+        12,
+        "TECH_PRODUCT"
+      ],
+      [
+        40,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Render Review interviewed the engineers behind Nova Headset.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        47,
+        59,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Nova Headset to Render Review.",
+    "entities": [
+      [
+        24,
+        36,
+        "TECH_PRODUCT"
+      ],
+      [
+        40,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Render Review reported that Nova Headset will ship next month.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        28,
+        40,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Play Chronicle reviewed Orbit Controller for game developers.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        24,
+        40,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Play Chronicle published a report about Orbit Controller.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        40,
+        56,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Play Chronicle that Orbit Controller supports their studio.",
+    "entities": [
+      [
+        16,
+        30,
+        "NEWS_OUTLET"
+      ],
+      [
+        36,
+        52,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Orbit Controller received an update according to Play Chronicle.",
+    "entities": [
+      [
+        0,
+        16,
+        "TECH_PRODUCT"
+      ],
+      [
+        49,
+        63,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Play Chronicle tested Orbit Controller yesterday.",
+    "entities": [
+      [
+        13,
+        27,
+        "NEWS_OUTLET"
+      ],
+      [
+        35,
+        51,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Orbit Controller was covered by Play Chronicle.",
+    "entities": [
+      [
+        14,
+        30,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        60,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Play Chronicle compared the performance of Orbit Controller.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        43,
+        59,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Play Chronicle discussed Orbit Controller at the conference.",
+    "entities": [
+      [
+        18,
+        32,
+        "NEWS_OUTLET"
+      ],
+      [
+        43,
+        59,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Orbit Controller appeared in a feature from Play Chronicle.",
+    "entities": [
+      [
+        0,
+        16,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Play Chronicle interviewed the engineers behind Orbit Controller.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        48,
+        64,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Orbit Controller to Play Chronicle.",
+    "entities": [
+      [
+        24,
+        40,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Play Chronicle reported that Orbit Controller will ship next month.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        29,
+        45,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Indie Beacon reviewed Vivid Editor for game developers.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        22,
+        34,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Indie Beacon published a report about Vivid Editor.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        38,
+        50,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Indie Beacon that Vivid Editor supports their studio.",
+    "entities": [
+      [
+        16,
+        28,
+        "NEWS_OUTLET"
+      ],
+      [
+        34,
+        46,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Vivid Editor received an update according to Indie Beacon.",
+    "entities": [
+      [
+        0,
+        12,
+        "TECH_PRODUCT"
+      ],
+      [
+        45,
+        57,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Indie Beacon tested Vivid Editor yesterday.",
+    "entities": [
+      [
+        13,
+        25,
+        "NEWS_OUTLET"
+      ],
+      [
+        33,
+        45,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Vivid Editor was covered by Indie Beacon.",
+    "entities": [
+      [
+        14,
+        26,
+        "TECH_PRODUCT"
+      ],
+      [
+        42,
+        54,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Indie Beacon compared the performance of Vivid Editor.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        41,
+        53,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Indie Beacon discussed Vivid Editor at the conference.",
+    "entities": [
+      [
+        18,
+        30,
+        "NEWS_OUTLET"
+      ],
+      [
+        41,
+        53,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Vivid Editor appeared in a feature from Indie Beacon.",
+    "entities": [
+      [
+        0,
+        12,
+        "TECH_PRODUCT"
+      ],
+      [
+        40,
+        52,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Indie Beacon interviewed the engineers behind Vivid Editor.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        46,
+        58,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Vivid Editor to Indie Beacon.",
+    "entities": [
+      [
+        24,
+        36,
+        "TECH_PRODUCT"
+      ],
+      [
+        40,
+        52,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Indie Beacon reported that Vivid Editor will ship next month.",
+    "entities": [
+      [
+        0,
+        12,
+        "NEWS_OUTLET"
+      ],
+      [
+        27,
+        39,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Quest Tribune reviewed Pulse Handheld for game developers.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        23,
+        37,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Quest Tribune published a report about Pulse Handheld.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        39,
+        53,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Quest Tribune that Pulse Handheld supports their studio.",
+    "entities": [
+      [
+        16,
+        29,
+        "NEWS_OUTLET"
+      ],
+      [
+        35,
+        49,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Pulse Handheld received an update according to Quest Tribune.",
+    "entities": [
+      [
+        0,
+        14,
+        "TECH_PRODUCT"
+      ],
+      [
+        47,
+        60,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Quest Tribune tested Pulse Handheld yesterday.",
+    "entities": [
+      [
+        13,
+        26,
+        "NEWS_OUTLET"
+      ],
+      [
+        34,
+        48,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Pulse Handheld was covered by Quest Tribune.",
+    "entities": [
+      [
+        14,
+        28,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        57,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Quest Tribune compared the performance of Pulse Handheld.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        42,
+        56,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Quest Tribune discussed Pulse Handheld at the conference.",
+    "entities": [
+      [
+        18,
+        31,
+        "NEWS_OUTLET"
+      ],
+      [
+        42,
+        56,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Pulse Handheld appeared in a feature from Quest Tribune.",
+    "entities": [
+      [
+        0,
+        14,
+        "TECH_PRODUCT"
+      ],
+      [
+        42,
+        55,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Quest Tribune interviewed the engineers behind Pulse Handheld.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        47,
+        61,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Pulse Handheld to Quest Tribune.",
+    "entities": [
+      [
+        24,
+        38,
+        "TECH_PRODUCT"
+      ],
+      [
+        42,
+        55,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Quest Tribune reported that Pulse Handheld will ship next month.",
+    "entities": [
+      [
+        0,
+        13,
+        "NEWS_OUTLET"
+      ],
+      [
+        28,
+        42,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Digital Gazette reviewed Helix Runtime for game developers.",
+    "entities": [
+      [
+        0,
+        15,
+        "NEWS_OUTLET"
+      ],
+      [
+        25,
+        38,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Digital Gazette published a report about Helix Runtime.",
+    "entities": [
+      [
+        0,
+        15,
+        "NEWS_OUTLET"
+      ],
+      [
+        41,
+        54,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Developers told Digital Gazette that Helix Runtime supports their studio.",
+    "entities": [
+      [
+        16,
+        31,
+        "NEWS_OUTLET"
+      ],
+      [
+        37,
+        50,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Helix Runtime received an update according to Digital Gazette.",
+    "entities": [
+      [
+        0,
+        13,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        61,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "An editor at Digital Gazette tested Helix Runtime yesterday.",
+    "entities": [
+      [
+        13,
+        28,
+        "NEWS_OUTLET"
+      ],
+      [
+        36,
+        49,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The launch of Helix Runtime was covered by Digital Gazette.",
+    "entities": [
+      [
+        14,
+        27,
+        "TECH_PRODUCT"
+      ],
+      [
+        43,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Digital Gazette compared the performance of Helix Runtime.",
+    "entities": [
+      [
+        0,
+        15,
+        "NEWS_OUTLET"
+      ],
+      [
+        44,
+        57,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "A journalist from Digital Gazette discussed Helix Runtime at the conference.",
+    "entities": [
+      [
+        18,
+        33,
+        "NEWS_OUTLET"
+      ],
+      [
+        44,
+        57,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Helix Runtime appeared in a feature from Digital Gazette.",
+    "entities": [
+      [
+        0,
+        13,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        56,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Digital Gazette interviewed the engineers behind Helix Runtime.",
+    "entities": [
+      [
+        0,
+        15,
+        "NEWS_OUTLET"
+      ],
+      [
+        49,
+        62,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "The studio demonstrated Helix Runtime to Digital Gazette.",
+    "entities": [
+      [
+        24,
+        37,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        56,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "train",
+    "text": "Digital Gazette reported that Helix Runtime will ship next month.",
+    "entities": [
+      [
+        0,
+        15,
+        "NEWS_OUTLET"
+      ],
+      [
+        30,
+        43,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "A new investigation by Arcade Observer examined Cobalt Platform.",
+    "entities": [
+      [
+        23,
+        38,
+        "NEWS_OUTLET"
+      ],
+      [
+        48,
+        63,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "During the briefing, Arcade Observer asked about Cobalt Platform.",
+    "entities": [
+      [
+        21,
+        36,
+        "NEWS_OUTLET"
+      ],
+      [
+        49,
+        64,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "Readers of Arcade Observer requested a test of Cobalt Platform.",
+    "entities": [
+      [
+        11,
+        26,
+        "NEWS_OUTLET"
+      ],
+      [
+        47,
+        62,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "Cobalt Platform attracted attention from Arcade Observer this week.",
+    "entities": [
+      [
+        0,
+        15,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        56,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "The team invited Arcade Observer to inspect Cobalt Platform.",
+    "entities": [
+      [
+        17,
+        32,
+        "NEWS_OUTLET"
+      ],
+      [
+        44,
+        59,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "Arcade Observer offered an assessment of Cobalt Platform.",
+    "entities": [
+      [
+        0,
+        15,
+        "NEWS_OUTLET"
+      ],
+      [
+        41,
+        56,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "A new investigation by Frame Bulletin examined Ember Compiler.",
+    "entities": [
+      [
+        23,
+        37,
+        "NEWS_OUTLET"
+      ],
+      [
+        47,
+        61,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "During the briefing, Frame Bulletin asked about Ember Compiler.",
+    "entities": [
+      [
+        21,
+        35,
+        "NEWS_OUTLET"
+      ],
+      [
+        48,
+        62,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "Readers of Frame Bulletin requested a test of Ember Compiler.",
+    "entities": [
+      [
+        11,
+        25,
+        "NEWS_OUTLET"
+      ],
+      [
+        46,
+        60,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "Ember Compiler attracted attention from Frame Bulletin this week.",
+    "entities": [
+      [
+        0,
+        14,
+        "TECH_PRODUCT"
+      ],
+      [
+        40,
+        54,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "The team invited Frame Bulletin to inspect Ember Compiler.",
+    "entities": [
+      [
+        17,
+        31,
+        "NEWS_OUTLET"
+      ],
+      [
+        43,
+        57,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "dev",
+    "text": "Frame Bulletin offered an assessment of Ember Compiler.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        40,
+        54,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "In an exclusive story, Level Dispatch described the release of Nimbus Device.",
+    "entities": [
+      [
+        23,
+        37,
+        "NEWS_OUTLET"
+      ],
+      [
+        63,
+        76,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "The makers of Nimbus Device spoke with Level Dispatch after the event.",
+    "entities": [
+      [
+        14,
+        27,
+        "TECH_PRODUCT"
+      ],
+      [
+        39,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "Coverage from Level Dispatch highlighted changes to Nimbus Device.",
+    "entities": [
+      [
+        14,
+        28,
+        "NEWS_OUTLET"
+      ],
+      [
+        52,
+        65,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "Following a demonstration of Nimbus Device, Level Dispatch published its findings.",
+    "entities": [
+      [
+        29,
+        42,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "Level Dispatch announced plans to investigate the design of Nimbus Device.",
+    "entities": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        60,
+        73,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "A detailed evaluation of Nimbus Device appeared in Level Dispatch on Monday.",
+    "entities": [
+      [
+        25,
+        38,
+        "TECH_PRODUCT"
+      ],
+      [
+        51,
+        65,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "In an exclusive story, Creator Sentinel described the release of Quartz Renderer.",
+    "entities": [
+      [
+        23,
+        39,
+        "NEWS_OUTLET"
+      ],
+      [
+        65,
+        80,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "The makers of Quartz Renderer spoke with Creator Sentinel after the event.",
+    "entities": [
+      [
+        14,
+        29,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        57,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "Coverage from Creator Sentinel highlighted changes to Quartz Renderer.",
+    "entities": [
+      [
+        14,
+        30,
+        "NEWS_OUTLET"
+      ],
+      [
+        54,
+        69,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "Following a demonstration of Quartz Renderer, Creator Sentinel published its findings.",
+    "entities": [
+      [
+        29,
+        44,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        62,
+        "NEWS_OUTLET"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "Creator Sentinel announced plans to investigate the design of Quartz Renderer.",
+    "entities": [
+      [
+        0,
+        16,
+        "NEWS_OUTLET"
+      ],
+      [
+        62,
+        77,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "split": "test",
+    "text": "A detailed evaluation of Quartz Renderer appeared in Creator Sentinel on Monday.",
+    "entities": [
+      [
+        25,
+        40,
+        "TECH_PRODUCT"
+      ],
+      [
+        53,
+        69,
+        "NEWS_OUTLET"
+      ]
+    ]
+  }
+]

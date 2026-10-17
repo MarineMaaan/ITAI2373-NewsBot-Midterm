@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+!ITAI2373-NewsBot-Midterm/outputs/*.csv
+*.zip
+kaggle.json
+.env
+artifacts/
+.qa/
+*.log
+starter/
+Midterm_NewsBot_Intelligence_System_student.ipynb

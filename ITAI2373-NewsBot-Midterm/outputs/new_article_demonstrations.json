@@ -1,0 +1,194 @@
+[
+  {
+    "processed": "football team win championship score twice final match coach praise player supporter celebrate stadium league announce tournament schedule monday",
+    "pos": {
+      "DET": 0.23529411764705882,
+      "NOUN": 0.3235294117647059,
+      "VERB": 0.14705882352941177,
+      "ADP": 0.11764705882352941,
+      "ADV": 0.029411764705882353,
+      "ADJ": 0.058823529411764705,
+      "CCONJ": 0.029411764705882353,
+      "AUX": 0.029411764705882353,
+      "PROPN": 0.029411764705882353
+    },
+    "patterns": {
+      "DET-NOUN": 6,
+      "NOUN-VERB": 3,
+      "VERB-DET": 3,
+      "NOUN-NOUN": 2,
+      "NOUN-ADP": 2,
+      "ADP-DET": 2,
+      "DET-ADJ": 2,
+      "ADJ-NOUN": 2
+    },
+    "syntax": {
+      "sentence_length": 11.333333333333334,
+      "dependency_distance": 1.6176470588235294,
+      "passive_rate": 0.0,
+      "clause_rate": 0.0
+    },
+    "sentiment": 0.9468,
+    "sentiment_label": "positive",
+    "emotions": {
+      "joy": 2,
+      "fear": 0,
+      "anger": 0,
+      "sadness": 0
+    },
+    "emotion": "joy",
+    "entities": [
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 206,
+        "end": 212
+      }
+    ],
+    "relations": [
+      {
+        "agent": "team",
+        "action": "win",
+        "patient": "championship",
+        "negated": false,
+        "passive": false
+      },
+      {
+        "agent": "coach",
+        "action": "praise",
+        "patient": "players",
+        "negated": false,
+        "passive": false
+      },
+      {
+        "agent": "league",
+        "action": "announce",
+        "patient": "schedule",
+        "negated": false,
+        "passive": false
+      }
+    ],
+    "pairs": [],
+    "predicted_category": "sport",
+    "score_margin": 2.012998222050952,
+    "review_required": false,
+    "scope": "Five BBC labels; health and non-English input are outside the trained label space.",
+    "custom_entities": []
+  },
+  {
+    "processed": "pixel ledger report game studio release aurora engine software toolkit computer graphic developer say product improve render performance laptop engineering team publish security update month",
+    "pos": {
+      "PROPN": 0.1111111111111111,
+      "VERB": 0.16666666666666666,
+      "SCONJ": 0.027777777777777776,
+      "DET": 0.1388888888888889,
+      "NOUN": 0.4166666666666667,
+      "AUX": 0.05555555555555555,
+      "ADP": 0.05555555555555555,
+      "ADJ": 0.027777777777777776
+    },
+    "patterns": {
+      "NOUN-NOUN": 6,
+      "DET-NOUN": 5,
+      "PROPN-PROPN": 2,
+      "NOUN-AUX": 2,
+      "AUX-VERB": 2,
+      "NOUN-ADP": 2,
+      "ADP-NOUN": 2,
+      "NOUN-VERB": 2
+    },
+    "syntax": {
+      "sentence_length": 12.0,
+      "dependency_distance": 1.6944444444444444,
+      "passive_rate": 0.0,
+      "clause_rate": 0.08333333333333333
+    },
+    "sentiment": 0.6369,
+    "sentiment_label": "positive",
+    "emotions": {
+      "joy": 0,
+      "fear": 0,
+      "anger": 0,
+      "sadness": 0
+    },
+    "emotion": "unmarked",
+    "entities": [
+      {
+        "text": "Pixel Ledger",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Aurora Engine",
+        "label": "PERSON",
+        "start": 54,
+        "end": 67
+      },
+      {
+        "text": "next month",
+        "label": "DATE",
+        "start": 234,
+        "end": 244
+      }
+    ],
+    "relations": [
+      {
+        "agent": "Ledger",
+        "action": "report",
+        "patient": "",
+        "negated": false,
+        "passive": false
+      },
+      {
+        "agent": "studio",
+        "action": "release",
+        "patient": "Engine",
+        "negated": false,
+        "passive": false
+      },
+      {
+        "agent": "Developers",
+        "action": "say",
+        "patient": "",
+        "negated": false,
+        "passive": false
+      },
+      {
+        "agent": "product",
+        "action": "improve",
+        "patient": "",
+        "negated": false,
+        "passive": false
+      },
+      {
+        "agent": "team",
+        "action": "publish",
+        "patient": "update",
+        "negated": false,
+        "passive": false
+      }
+    ],
+    "pairs": [
+      {
+        "source": "aurora engine",
+        "target": "pixel ledger",
+        "count": 1
+      }
+    ],
+    "predicted_category": "tech",
+    "score_margin": 1.1163592834270744,
+    "review_required": false,
+    "scope": "Five BBC labels; health and non-English input are outside the trained label space.",
+    "custom_entities": [
+      {
+        "text": "Pixel Ledger",
+        "label": "NEWS_OUTLET"
+      },
+      {
+        "text": "Aurora Engine",
+        "label": "TECH_PRODUCT"
+      }
+    ]
+  }
+]

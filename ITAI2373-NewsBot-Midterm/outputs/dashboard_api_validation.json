@@ -1,0 +1,211 @@
+[
+  {
+    "expected_category": "sport",
+    "summary": "Sport | sentiment: positive | review: False",
+    "details": {
+      "processed": "football team win championship striker score goal final match coach praise player supporter celebrate victory stadium league announce tournament monday",
+      "pos": {
+        "DET": 0.21052631578947367,
+        "NOUN": 0.34210526315789475,
+        "VERB": 0.13157894736842105,
+        "SCONJ": 0.02631578947368421,
+        "PRON": 0.05263157894736842,
+        "NUM": 0.02631578947368421,
+        "ADP": 0.07894736842105263,
+        "ADJ": 0.05263157894736842,
+        "CCONJ": 0.02631578947368421,
+        "AUX": 0.02631578947368421,
+        "PROPN": 0.02631578947368421
+      },
+      "patterns": {
+        "DET-NOUN": 7,
+        "NOUN-VERB": 4,
+        "VERB-DET": 3,
+        "NOUN-ADP": 3,
+        "ADP-DET": 2,
+        "ADJ-NOUN": 2,
+        "NOUN-DET": 2,
+        "NOUN-NOUN": 1
+      },
+      "syntax": {
+        "sentence_length": 12.666666666666666,
+        "dependency_distance": 1.763157894736842,
+        "passive_rate": 0.0,
+        "clause_rate": 0.02631578947368421
+      },
+      "sentiment": 0.9468,
+      "sentiment_label": "positive",
+      "emotions": {
+        "joy": 3,
+        "fear": 0,
+        "anger": 0,
+        "sadness": 0
+      },
+      "emotion": "joy",
+      "entities": [
+        {
+          "text": "Monday",
+          "label": "DATE",
+          "start": 224,
+          "end": 230
+        }
+      ],
+      "relations": [
+        {
+          "agent": "team",
+          "action": "win",
+          "patient": "championship",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "striker",
+          "action": "score",
+          "patient": "goals",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "coach",
+          "action": "praise",
+          "patient": "players",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "league",
+          "action": "announce",
+          "patient": "tournament",
+          "negated": false,
+          "passive": false
+        }
+      ],
+      "pairs": [],
+      "predicted_category": "sport",
+      "score_margin": 2.37419564768683,
+      "review_required": false,
+      "scope": "Five BBC labels; health and non-English input are outside the trained label space.",
+      "custom_entities": []
+    }
+  },
+  {
+    "expected_category": "tech",
+    "summary": "Tech | sentiment: positive | review: False",
+    "details": {
+      "processed": "pixel ledger report game studio release aurora engine software toolkit computer graphic developer say product improve render performance laptop engineering team publish security update month",
+      "pos": {
+        "PROPN": 0.1111111111111111,
+        "VERB": 0.16666666666666666,
+        "SCONJ": 0.027777777777777776,
+        "DET": 0.1388888888888889,
+        "NOUN": 0.4166666666666667,
+        "AUX": 0.05555555555555555,
+        "ADP": 0.05555555555555555,
+        "ADJ": 0.027777777777777776
+      },
+      "patterns": {
+        "NOUN-NOUN": 6,
+        "DET-NOUN": 5,
+        "PROPN-PROPN": 2,
+        "NOUN-AUX": 2,
+        "AUX-VERB": 2,
+        "NOUN-ADP": 2,
+        "ADP-NOUN": 2,
+        "NOUN-VERB": 2
+      },
+      "syntax": {
+        "sentence_length": 12.0,
+        "dependency_distance": 1.6944444444444444,
+        "passive_rate": 0.0,
+        "clause_rate": 0.08333333333333333
+      },
+      "sentiment": 0.6369,
+      "sentiment_label": "positive",
+      "emotions": {
+        "joy": 0,
+        "fear": 0,
+        "anger": 0,
+        "sadness": 0
+      },
+      "emotion": "unmarked",
+      "entities": [
+        {
+          "text": "Pixel Ledger",
+          "label": "PERSON",
+          "start": 0,
+          "end": 12
+        },
+        {
+          "text": "Aurora Engine",
+          "label": "PERSON",
+          "start": 54,
+          "end": 67
+        },
+        {
+          "text": "next month",
+          "label": "DATE",
+          "start": 234,
+          "end": 244
+        }
+      ],
+      "relations": [
+        {
+          "agent": "Ledger",
+          "action": "report",
+          "patient": "",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "studio",
+          "action": "release",
+          "patient": "Engine",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "Developers",
+          "action": "say",
+          "patient": "",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "product",
+          "action": "improve",
+          "patient": "",
+          "negated": false,
+          "passive": false
+        },
+        {
+          "agent": "team",
+          "action": "publish",
+          "patient": "update",
+          "negated": false,
+          "passive": false
+        }
+      ],
+      "pairs": [
+        {
+          "source": "aurora engine",
+          "target": "pixel ledger",
+          "count": 1
+        }
+      ],
+      "predicted_category": "tech",
+      "score_margin": 1.1163592834270744,
+      "review_required": false,
+      "scope": "Five BBC labels; health and non-English input are outside the trained label space.",
+      "custom_entities": [
+        {
+          "text": "Pixel Ledger",
+          "label": "NEWS_OUTLET"
+        },
+        {
+          "text": "Aurora Engine",
+          "label": "TECH_PRODUCT"
+        }
+      ]
+    }
+  }
+]

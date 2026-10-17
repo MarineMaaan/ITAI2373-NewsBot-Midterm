@@ -1,0 +1,251 @@
+{
+  "dataset": {
+    "sha256": "f56a65dab2ea728505a639d2186a2b2f1c0939f28e8e89b5ed1c1fe9520b1323",
+    "uploaded_rows": 1490,
+    "missing_removed": 0,
+    "duplicates_removed": 52,
+    "short_or_language_screen_removed": 0,
+    "retained_rows": 1438,
+    "category_counts": {
+      "business": 334,
+      "entertainment": 263,
+      "politics": 266,
+      "sport": 342,
+      "tech": 233
+    },
+    "uppercase_letter_fraction": 0.0
+  },
+  "split_sizes": {
+    "train": 1006,
+    "validation": 216,
+    "test": 216
+  },
+  "selected_model": "Linear SVM",
+  "test_metrics": [
+    {
+      "model": "Naive Bayes",
+      "accuracy": 0.9722222222222222,
+      "macro_f1": 0.9705480280237563,
+      "weighted_f1": 0.9722095446205479
+    },
+    {
+      "model": "Logistic regression",
+      "accuracy": 0.9768518518518519,
+      "macro_f1": 0.9756804448974666,
+      "weighted_f1": 0.9766755153892641
+    },
+    {
+      "model": "Linear SVM",
+      "accuracy": 0.9814814814814815,
+      "macro_f1": 0.9807625473876224,
+      "weighted_f1": 0.9814467225578899
+    }
+  ],
+  "classification_reports": {
+    "Naive Bayes": {
+      "business": {
+        "precision": 0.9433962264150944,
+        "recall": 1.0,
+        "f1-score": 0.970873786407767,
+        "support": 50.0
+      },
+      "entertainment": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 40.0
+      },
+      "politics": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 40.0
+      },
+      "sport": {
+        "precision": 0.9807692307692307,
+        "recall": 1.0,
+        "f1-score": 0.9902912621359223,
+        "support": 51.0
+      },
+      "tech": {
+        "precision": 0.9428571428571428,
+        "recall": 0.9428571428571428,
+        "f1-score": 0.9428571428571428,
+        "support": 35.0
+      },
+      "accuracy": 0.9722222222222222,
+      "macro avg": {
+        "precision": 0.9734045200082937,
+        "recall": 0.9685714285714285,
+        "f1-score": 0.9705480280237563,
+        "support": 216.0
+      },
+      "weighted avg": {
+        "precision": 0.9730974170832661,
+        "recall": 0.9722222222222222,
+        "f1-score": 0.9722095446205479,
+        "support": 216.0
+      }
+    },
+    "Logistic regression": {
+      "business": {
+        "precision": 0.9433962264150944,
+        "recall": 1.0,
+        "f1-score": 0.970873786407767,
+        "support": 50.0
+      },
+      "entertainment": {
+        "precision": 0.975609756097561,
+        "recall": 1.0,
+        "f1-score": 0.9876543209876543,
+        "support": 40.0
+      },
+      "politics": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 40.0
+      },
+      "sport": {
+        "precision": 0.9807692307692307,
+        "recall": 1.0,
+        "f1-score": 0.9902912621359223,
+        "support": 51.0
+      },
+      "tech": {
+        "precision": 1.0,
+        "recall": 0.9142857142857143,
+        "f1-score": 0.9552238805970149,
+        "support": 35.0
+      },
+      "accuracy": 0.9768518518518519,
+      "macro avg": {
+        "precision": 0.9799550426563772,
+        "recall": 0.972857142857143,
+        "f1-score": 0.9756804448974666,
+        "support": 216.0
+      },
+      "weighted avg": {
+        "precision": 0.9778399645087404,
+        "recall": 0.9768518518518519,
+        "f1-score": 0.9766755153892641,
+        "support": 216.0
+      }
+    },
+    "Linear SVM": {
+      "business": {
+        "precision": 0.9615384615384616,
+        "recall": 1.0,
+        "f1-score": 0.9803921568627451,
+        "support": 50.0
+      },
+      "entertainment": {
+        "precision": 1.0,
+        "recall": 0.975,
+        "f1-score": 0.9873417721518988,
+        "support": 40.0
+      },
+      "politics": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 40.0
+      },
+      "sport": {
+        "precision": 0.9807692307692307,
+        "recall": 1.0,
+        "f1-score": 0.9902912621359223,
+        "support": 51.0
+      },
+      "tech": {
+        "precision": 0.9714285714285714,
+        "recall": 0.9714285714285714,
+        "f1-score": 0.9714285714285714,
+        "support": 35.0
+      },
+      "accuracy": 0.9814814814814815,
+      "macro avg": {
+        "precision": 0.9827472527472528,
+        "recall": 0.9792857142857143,
+        "f1-score": 0.9807625473876224,
+        "support": 216.0
+      },
+      "weighted avg": {
+        "precision": 0.9819266381766383,
+        "recall": 0.9814814814814815,
+        "f1-score": 0.9814467225578899,
+        "support": 216.0
+      }
+    }
+  },
+  "research": {
+    "hypothesis": "Adding grammar improves macro-F1 beyond lexical features.",
+    "baseline_f1": 0.9706075292554452,
+    "hybrid_f1": 0.9291883368921521,
+    "difference_ci95": [
+      -0.0739911401358611,
+      -0.014092334825810354
+    ],
+    "baseline_masked_f1": 0.9566880088329024,
+    "hybrid_masked_f1": 0.9248373988762756,
+    "caveat": "Single split; bootstrap conditions on fitted models. Masked grammar retains original syntax. No claim of academic novelty or causal benefit."
+  },
+  "custom_ner": {
+    "train_sentences": 96,
+    "dev_sentences": 12,
+    "test_sentences": 12,
+    "test_precision": 0.625,
+    "test_recall": 0.625,
+    "test_f1": 0.625,
+    "per_label": {
+      "TECH_PRODUCT": {
+        "p": 0.5714285714285714,
+        "r": 1.0,
+        "f": 0.7272727272727273
+      },
+      "NEWS_OUTLET": {
+        "p": 1.0,
+        "r": 0.25,
+        "f": 0.4
+      }
+    },
+    "no_custom_entity_baseline_f1": 0.0,
+    "selected_epoch": 5,
+    "limitation": "Authored synthetic sentences, two unseen name pairs and six unseen frames; no manually annotated BBC NER test set."
+  },
+  "crosslingual": [
+    {
+      "condition": "English control",
+      "accuracy": 0.96,
+      "macro_f1": 0.9595959595959596
+    },
+    {
+      "condition": "Spanish direct",
+      "accuracy": 0.24,
+      "macro_f1": 0.13563218390804596
+    },
+    {
+      "condition": "Spanish with glossary",
+      "accuracy": 0.88,
+      "macro_f1": 0.868131868131868
+    }
+  ],
+  "review_policy": {
+    "test_coverage": 0.75,
+    "test_accuracy_when_accepted": 1.0,
+    "validation_threshold": 1.021646745569519,
+    "caveat": "Threshold targets 80% validation coverage; coverage may shift. Margins are not probabilities."
+  },
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "spacy": "3.8.16",
+    "nltk": "3.10.3",
+    "matplotlib": "3.11.2",
+    "gradio": "5.50.0"
+  },
+  "python": "3.11.9",
+  "elapsed_seconds": 211.72836070001358,
+  "execution_context": "Local CPU validation; Colab upload path requires browser interaction."
+}

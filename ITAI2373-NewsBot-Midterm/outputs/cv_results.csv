@@ -1,0 +1,4 @@
+model,cv_macro_f1,cv_std,seconds,parameters
+Linear SVM,0.9764063265600812,0.006349357569121935,6.724473400012357,"{'model__C': 1, 'select__percentile': 75, 'tfidf__ngram_range': (1, 2)}"
+Logistic regression,0.9723941551142771,0.005063970870750549,9.148174400004791,"{'model__C': 2, 'select__percentile': 75, 'tfidf__ngram_range': (1, 1)}"
+Naive Bayes,0.9649062482497014,0.0024588274114642436,6.042663800006267,"{'model__alpha': 0.5, 'select__percentile': 75, 'tfidf__ngram_range': (1, 2)}"

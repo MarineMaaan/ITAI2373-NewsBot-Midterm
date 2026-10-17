@@ -1,0 +1,326 @@
+[
+  {
+    "text": "In an exclusive story, Level Dispatch described the release of Nimbus Device.",
+    "gold": [
+      [
+        23,
+        37,
+        "NEWS_OUTLET"
+      ],
+      [
+        63,
+        76,
+        "TECH_PRODUCT"
+      ]
+    ],
+    "predicted": [
+      [
+        23,
+        37,
+        "TECH_PRODUCT"
+      ],
+      [
+        63,
+        76,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "The makers of Nimbus Device spoke with Level Dispatch after the event.",
+    "gold": [
+      [
+        14,
+        27,
+        "TECH_PRODUCT"
+      ],
+      [
+        39,
+        53,
+        "NEWS_OUTLET"
+      ]
+    ],
+    "predicted": [
+      [
+        14,
+        27,
+        "TECH_PRODUCT"
+      ],
+      [
+        39,
+        53,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "Coverage from Level Dispatch highlighted changes to Nimbus Device.",
+    "gold": [
+      [
+        14,
+        28,
+        "NEWS_OUTLET"
+      ],
+      [
+        52,
+        65,
+        "TECH_PRODUCT"
+      ]
+    ],
+    "predicted": [
+      [
+        14,
+        28,
+        "TECH_PRODUCT"
+      ],
+      [
+        52,
+        65,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "Following a demonstration of Nimbus Device, Level Dispatch published its findings.",
+    "gold": [
+      [
+        29,
+        42,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        58,
+        "NEWS_OUTLET"
+      ]
+    ],
+    "predicted": [
+      [
+        29,
+        42,
+        "TECH_PRODUCT"
+      ],
+      [
+        44,
+        58,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "Level Dispatch announced plans to investigate the design of Nimbus Device.",
+    "gold": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        60,
+        73,
+        "TECH_PRODUCT"
+      ]
+    ],
+    "predicted": [
+      [
+        0,
+        14,
+        "NEWS_OUTLET"
+      ],
+      [
+        60,
+        73,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "A detailed evaluation of Nimbus Device appeared in Level Dispatch on Monday.",
+    "gold": [
+      [
+        25,
+        38,
+        "TECH_PRODUCT"
+      ],
+      [
+        51,
+        65,
+        "NEWS_OUTLET"
+      ]
+    ],
+    "predicted": [
+      [
+        25,
+        38,
+        "TECH_PRODUCT"
+      ],
+      [
+        51,
+        65,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "In an exclusive story, Creator Sentinel described the release of Quartz Renderer.",
+    "gold": [
+      [
+        23,
+        39,
+        "NEWS_OUTLET"
+      ],
+      [
+        65,
+        80,
+        "TECH_PRODUCT"
+      ]
+    ],
+    "predicted": [
+      [
+        23,
+        39,
+        "TECH_PRODUCT"
+      ],
+      [
+        65,
+        80,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "The makers of Quartz Renderer spoke with Creator Sentinel after the event.",
+    "gold": [
+      [
+        14,
+        29,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        57,
+        "NEWS_OUTLET"
+      ]
+    ],
+    "predicted": [
+      [
+        14,
+        29,
+        "TECH_PRODUCT"
+      ],
+      [
+        41,
+        57,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "Coverage from Creator Sentinel highlighted changes to Quartz Renderer.",
+    "gold": [
+      [
+        14,
+        30,
+        "NEWS_OUTLET"
+      ],
+      [
+        54,
+        69,
+        "TECH_PRODUCT"
+      ]
+    ],
+    "predicted": [
+      [
+        14,
+        30,
+        "NEWS_OUTLET"
+      ],
+      [
+        54,
+        69,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "Following a demonstration of Quartz Renderer, Creator Sentinel published its findings.",
+    "gold": [
+      [
+        29,
+        44,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        62,
+        "NEWS_OUTLET"
+      ]
+    ],
+    "predicted": [
+      [
+        29,
+        44,
+        "TECH_PRODUCT"
+      ],
+      [
+        46,
+        62,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "Creator Sentinel announced plans to investigate the design of Quartz Renderer.",
+    "gold": [
+      [
+        0,
+        16,
+        "NEWS_OUTLET"
+      ],
+      [
+        62,
+        77,
+        "TECH_PRODUCT"
+      ]
+    ],
+    "predicted": [
+      [
+        0,
+        16,
+        "NEWS_OUTLET"
+      ],
+      [
+        62,
+        77,
+        "TECH_PRODUCT"
+      ]
+    ]
+  },
+  {
+    "text": "A detailed evaluation of Quartz Renderer appeared in Creator Sentinel on Monday.",
+    "gold": [
+      [
+        25,
+        40,
+        "TECH_PRODUCT"
+      ],
+      [
+        53,
+        69,
+        "NEWS_OUTLET"
+      ]
+    ],
+    "predicted": [
+      [
+        25,
+        40,
+        "TECH_PRODUCT"
+      ],
+      [
+        53,
+        69,
+        "TECH_PRODUCT"
+      ]
+    ]
+  }
+]

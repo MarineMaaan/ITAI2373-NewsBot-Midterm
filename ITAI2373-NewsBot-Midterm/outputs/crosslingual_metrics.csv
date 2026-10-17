@@ -1,0 +1,4 @@
+condition,accuracy,macro_f1
+English control,0.96,0.9595959595959596
+Spanish direct,0.24,0.13563218390804596
+Spanish with glossary,0.88,0.868131868131868
